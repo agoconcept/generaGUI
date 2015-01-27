@@ -1,0 +1,65 @@
+I5
+.S'Glow'
+p0
+.S'Sinus'
+p0
+.S'Gaussian blur'
+p0
+.S'Brightness'
+p0
+.S'Add'
+p0
+.(lp0
+(lp1
+S'Layer 0'
+p2
+aS'256'
+p3
+ag3
+aS'Gradient1'
+p4
+aS'4'
+p5
+aS'Yes'
+p6
+aa(lp7
+S'Layer 1'
+p8
+aS'256'
+p9
+ag9
+aS'Gradient2'
+p10
+aS'31'
+p11
+aS'83'
+p12
+aS'98'
+p13
+aS'89'
+p14
+aS'55'
+p15
+aS'128'
+p16
+aS'Yes'
+p17
+aa(lp18
+S'Layer 1'
+p19
+aS'8'
+p20
+ag17
+aa(lp21
+S'Layer 1'
+p22
+aS'0'
+p23
+ag17
+aa(lp24
+S'Layer 0'
+p25
+aS'Layer 1'
+p26
+ag17
+aa.

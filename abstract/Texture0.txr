@@ -1,0 +1,138 @@
+I15
+.S'Fractal'
+p0
+.S'Gaussian blur'
+p0
+.S'Directional blur'
+p0
+.S'Bump more'
+p0
+.S'Shade'
+p0
+.S'Fractal'
+p0
+.S'Grayscale'
+p0
+.S'Directional blur'
+p0
+.S'Bump more'
+p0
+.S'Copy'
+p0
+.S'Edge detect'
+p0
+.S'Add'
+p0
+.S'Texture curve'
+p0
+.S'Twirl'
+p0
+.S'Twirl'
+p0
+.(lp0
+(lp1
+S'Layer 0'
+p2
+aS'256'
+p3
+aS'256'
+p4
+aS'Gradient0'
+p5
+aS'30'
+p6
+aS'1'
+p7
+aS'Yes'
+p8
+aa(lp9
+g2
+aS'8'
+p10
+ag8
+aa(lp11
+g2
+ag2
+aS'16'
+p12
+ag8
+aa(lp13
+g2
+ag8
+aa(lp14
+g2
+ag2
+ag8
+aa(lp15
+S'Layer 1'
+p16
+aS'256'
+p17
+aS'256'
+p18
+aS'Gradient0'
+p19
+aS'10'
+p20
+aS'158'
+p21
+ag8
+aa(lp22
+S'Layer 1'
+p23
+ag8
+aa(lp24
+g2
+aS'Layer 1'
+p25
+aS'32'
+p26
+ag8
+aa(lp27
+S'Layer 0'
+p28
+aS'Yes'
+p29
+aa(lp30
+S'Layer 1'
+p31
+ag28
+ag29
+aa(lp32
+S'Layer 1'
+p33
+ag29
+aa(lp34
+g28
+aS'Layer 1'
+p35
+ag29
+aa(lp36
+S'Layer 3'
+p37
+aS'256'
+p38
+aS'256'
+p39
+aS'Curve0'
+p40
+ag2
+aS'Layer 2'
+p41
+aS'2'
+p42
+ag8
+aa(lp43
+S'Layer 2'
+p44
+aS'152'
+p45
+aS'Yes'
+p46
+aa(lp47
+S'Layer 3'
+p48
+aS'152'
+p49
+ag46
+aa.

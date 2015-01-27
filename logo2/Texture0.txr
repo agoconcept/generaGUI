@@ -1,0 +1,104 @@
+I11
+.S'Fractal'
+p0
+.S'Fast blur'
+p0
+.S'Posterize'
+p0
+.S'Bump more'
+p0
+.S'Line blur'
+p0
+.S'Bump more'
+p0
+.S'Bump more'
+p0
+.S'Inverse'
+p0
+.S'Bump more'
+p0
+.S'Bump'
+p0
+.S'Texture curve'
+p0
+.(lp0
+(lp1
+S'Layer 0'
+p2
+aS'256'
+p3
+aS'256'
+p4
+aS'Gradient1'
+p5
+aS'44'
+p6
+aS'1'
+p7
+aS'Yes'
+p8
+aS'1'
+p9
+aS'Yes'
+p10
+aa(lp11
+S'Layer 0'
+p12
+aS'8'
+p13
+aS'Yes'
+p14
+aa(lp15
+g2
+aS'6'
+p16
+ag10
+aa(lp17
+g2
+aS'Yes'
+p18
+aa(lp19
+S'Layer 0'
+p20
+aS'48'
+p21
+aS'128'
+p22
+aS'Yes'
+p23
+aa(lp24
+g20
+ag23
+aa(lp25
+g20
+ag23
+aa(lp26
+S'Layer 0'
+p27
+aS'Yes'
+p28
+aa(lp29
+g20
+ag23
+aa(lp30
+S'Layer 0'
+p31
+aS'Yes'
+p32
+aa(lp33
+S'Layer 1'
+p34
+aS'256'
+p35
+ag35
+aS'Curve0'
+p36
+aS'Layer 0'
+p37
+aS'Layer 2'
+p38
+aS'4'
+p39
+aS'Yes'
+p40
+aa.

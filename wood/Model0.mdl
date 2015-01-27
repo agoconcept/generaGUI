@@ -1,0 +1,34 @@
+I3
+.S'Star'
+p0
+.S'Texture map'
+p0
+.S'Environment map'
+p0
+.(lp0
+(lp1
+S'2'
+p2
+aS'4'
+p3
+ag3
+aS'3'
+p4
+aS'128'
+p5
+aS'128'
+p6
+aS'Yes'
+p7
+aa(lp8
+S'Cylindric'
+p9
+aS'Texture0'
+p10
+ag7
+aa(lp11
+S'Texture1'
+p12
+aS'Yes'
+p13
+aa.

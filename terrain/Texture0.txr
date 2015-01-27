@@ -1,0 +1,50 @@
+I4
+.S'Fractal'
+p0
+.S'Gaussian blur'
+p0
+.S'Fractal'
+p0
+.S'Gaussian blur'
+p0
+.(lp0
+(lp1
+S'Layer 0'
+p2
+aS'512'
+p3
+aS'512'
+p4
+aS'Gradient0'
+p5
+aS'10'
+p6
+aS'99'
+p7
+aS'Yes'
+p8
+aa(lp9
+g2
+aS'4'
+p10
+ag8
+aa(lp11
+S'Layer 1'
+p12
+aS'512'
+p13
+aS'512'
+p14
+aS'Gradient1'
+p15
+aS'10'
+p16
+aS'99'
+p17
+ag8
+aa(lp18
+S'Layer 1'
+p19
+ag10
+ag8
+aa.

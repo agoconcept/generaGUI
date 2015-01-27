@@ -1,0 +1,46 @@
+I4
+.S'Fractal'
+p0
+.S'Fast blur'
+p0
+.S'Posterize'
+p0
+.S'Bump more'
+p0
+.(lp0
+(lp1
+S'Layer 0'
+p2
+aS'256'
+p3
+aS'256'
+p4
+aS'Gradient1'
+p5
+aS'44'
+p6
+aS'1'
+p7
+aS'Yes'
+p8
+aS'1'
+p9
+aS'Yes'
+p10
+aa(lp11
+S'Layer 0'
+p12
+aS'8'
+p13
+aS'Yes'
+p14
+aa(lp15
+g2
+aS'6'
+p16
+ag10
+aa(lp17
+g2
+aS'Yes'
+p18
+aa.

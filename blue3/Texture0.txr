@@ -1,0 +1,71 @@
+I8
+.S'Fractal'
+p0
+.S'Gaussian blur'
+p0
+.S'Copy'
+p0
+.S'Gaussian blur'
+p0
+.S'Contrast'
+p0
+.S'Emboss'
+p0
+.S'Shade'
+p0
+.S'Bump more'
+p0
+.(lp0
+(lp1
+S'Layer 0'
+p2
+aS'256'
+p3
+ag3
+aS'Gradient0'
+p4
+aS'24'
+p5
+aS'27'
+p6
+aS'Yes'
+p7
+aa(lp8
+g2
+aS'6'
+p9
+ag7
+aa(lp10
+S'Layer 1'
+p11
+aS'Layer 0'
+p12
+ag7
+aa(lp13
+S'Layer 1'
+p14
+ag9
+ag7
+aa(lp15
+S'Layer 1'
+p16
+aS'224'
+p17
+aS'Yes'
+p18
+aa(lp19
+S'Layer 1'
+p20
+aS'Down right'
+p21
+aS'Yes'
+p22
+aa(lp23
+g2
+aS'Layer 1'
+p24
+ag7
+aa(lp25
+g2
+ag7
+aa.

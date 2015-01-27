@@ -1,0 +1,90 @@
+I8
+.S'Fractal'
+p0
+.S'Gaussian blur'
+p0
+.S'Glow'
+p0
+.S'Brightness'
+p0
+.S'Random dump'
+p0
+.S'Environment'
+p0
+.S'Scale'
+p0
+.S'Tile'
+p0
+.(lp0
+(lp1
+S'Layer 0'
+p2
+aS'256'
+p3
+ag3
+aS'Gradient2'
+p4
+aS'8'
+p5
+aS'30'
+p6
+aS'Yes'
+p7
+aa(lp8
+S'Layer 0'
+p9
+aS'4'
+p10
+aS'Yes'
+p11
+aa(lp12
+S'Layer 1'
+p13
+ag3
+ag3
+aS'Gradient1'
+p14
+aS'32'
+p15
+ag7
+aa(lp16
+S'Layer 1'
+p17
+aS'24'
+p18
+ag7
+aa(lp19
+S'Layer 2'
+p20
+aS'Layer 1'
+p21
+aS'28'
+p22
+aS'33'
+p23
+ag7
+aa(lp24
+g2
+aS'Layer 2'
+p25
+aS'45'
+p26
+aS'Yes'
+p27
+aa(lp28
+S'Layer 0'
+p29
+aS'512'
+p30
+aS'512'
+p31
+aS'Yes'
+p32
+ag32
+aa(lp33
+g29
+aS'2'
+p34
+ag34
+ag32
+aa.

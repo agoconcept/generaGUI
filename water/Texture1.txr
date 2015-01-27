@@ -1,0 +1,54 @@
+I4
+.S'Glow'
+p0
+.S'Sinus'
+p0
+.S'Mul'
+p0
+.S'Add'
+p0
+.(lp0
+(lp1
+S'Layer 0'
+p2
+aS'256'
+p3
+ag3
+aS'Gradient3'
+p4
+aS'12'
+p5
+aS'Yes'
+p6
+aa(lp7
+S'Layer 1'
+p8
+ag3
+ag3
+aS'Gradient1'
+p9
+aS'27'
+p10
+aS'33'
+p11
+aS'33'
+p12
+aS'19'
+p13
+aS'51'
+p14
+aS'98'
+p15
+ag6
+aa(lp16
+S'Layer 1'
+p17
+aS'Layer 1'
+p18
+ag6
+aa(lp19
+g2
+aS'Layer 1'
+p20
+ag6
+aa.
